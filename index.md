@@ -18,4 +18,4 @@
 
 ## サンプル集
 
-{% link .html %}
+{% link samples.html %}
