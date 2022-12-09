@@ -18,4 +18,4 @@
 
 ## サンプル集
 
-{% link samples.md %}
+{% link katz/samples.html %}
