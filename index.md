@@ -18,4 +18,4 @@
 
 ## サンプル集
 
-{% link samples.md %}
+[Link to a page]({% link samples.md %})
