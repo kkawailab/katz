@@ -18,4 +18,4 @@
 
 ## サンプル集
 
-[Link to a page]({% link samples.md %})
+[Link to a page](/katz{% link samples.md %})
