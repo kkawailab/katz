@@ -1,6 +1,6 @@
 # Katz Kawai
 
-担当者のWebサイト
+担当者の Web サイト
 
 ## 自己紹介
 
@@ -11,6 +11,10 @@
 卒業制作の成果サイトです。
 
 ## ブログ
+
+以下の方法で作成できます。
+
+[Posts の作成](http://jekyllrb-ja.github.io/docs/posts/)
 
 <ul>
   {% for post in site.posts %}
