@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyllへようこそ！"
+title: "ブログポストのサンプル"
 ---
 
 # ようこそ
