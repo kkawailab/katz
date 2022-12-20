@@ -26,7 +26,7 @@
 
 ## サンプル集
 
-[Link to a page](/katz{% link samples.md %})
+[コンピュータ言語のソースコード](/katz{% link samples.md %})
 
 ## 卒業制作
 
